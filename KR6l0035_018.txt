@@ -1,24 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:52:28.533033
+#+DATE: 2015-08-30 20:52:32.644348
 #+TITLE: 俱舍論疏
 #+PROPERTY: CBETA_ID T41n1822
 #+PROPERTY: ID KR6l0035
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 41, No. 1822
 #+PROPERTY: VOL 41
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@HARA
 #+PROPERTY: LASTPB <pb:KR6l0035_T_018-0677c> 
 #+PROPERTY: JUAN 18
 ¶
-
- 俱舍論疏卷第十八¶
+俱舍論疏卷第十八¶
 ¶
 沙門法寶撰¶
 
-:PROPERTIES:
-:head: 分別業品第四之六
-:END:
-¶
+分別業品第四之六¶
 
 論。於前所辨已下。第二別明業障。就中¶
 有六。一出業體。二別明僧破。三明成¶
@@ -646,8 +642,7 @@
 <pb:KR6l0035_T_018-0683a>¶
 唯身．語　造作名業。謂身．語及思　准此¶
 道理。身．語通三。思唯業．福。思相應法唯得¶
-名福　修類中慈唯名福事。無嗔善根相¶
-應思所託故名之為事。體是善故名之為¶
+名福　修類中慈唯名福事。無嗔善根相應思所託故名之為事。體是善故名之為¶
 福。非思．及身語性不名為業。
 
 論。且¶
@@ -1138,10 +1133,8 @@
 俱舍論疏卷第十八¶
 
 保延三年八月晦日午上於南家東面¶
-點了此卷文落失等¶
-
-非言談所及¶
-
+點了此卷文落失等
+非言談所及
 老法師記之
 <pb:KR6l0035_T_018-0687a>¶
 

@@ -1,24 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:52:28.856726
+#+DATE: 2015-08-30 20:52:32.949400
 #+TITLE: 俱舍論疏
 #+PROPERTY: CBETA_ID T41n1822
 #+PROPERTY: ID KR6l0035
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 41, No. 1822
 #+PROPERTY: VOL 41
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@HARA
 #+PROPERTY: LASTPB <pb:KR6l0035_T_025-0755a> 
 #+PROPERTY: JUAN 25
 ¶
-
- 俱舍論疏卷第二十五¶
+俱舍論疏卷第二十五¶
 ¶
 沙門法寶撰¶
 
-:PROPERTIES:
-:head: 分別賢聖品第六之四
-:END:
-¶
+分別賢聖品第六之四論本第二十五¶
 
 論。如前所說至亦有云何。已下大文第五¶
 明六種姓。一明六種羅漢。二明六種學．凡。¶
