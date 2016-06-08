@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:52:28.533033
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:29
 #+TITLE: 俱舍論疏
 #+PROPERTY: CBETA_ID T41n1822
 #+PROPERTY: ID KR6l0035
@@ -11,7 +11,8 @@
 #+PROPERTY: JUAN 18
 ¶
 
- 俱舍論疏卷第十八¶
+ 
+** 6俱舍論疏卷第十八¶
 ¶
 沙門法寶撰¶
 

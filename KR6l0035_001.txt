@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:52:27.659197
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:29
 #+TITLE: 俱舍論疏
 #+PROPERTY: CBETA_ID T41n1822
 #+PROPERTY: ID KR6l0035
@@ -604,7 +604,8 @@ No.1822[cf.No.1558]¶
 性亦名非空非不空。能與善法為種子¶
 故。有何差別也。¶
 
-1分別界品
+* 1分別界品
+** 1
 :PROPERTIES:
 :head: 分別界品第一之一
 :END:

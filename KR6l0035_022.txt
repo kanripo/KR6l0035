@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:52:28.725242
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:29
 #+TITLE: 俱舍論疏
 #+PROPERTY: CBETA_ID T41n1822
 #+PROPERTY: ID KR6l0035
@@ -16,7 +16,8 @@
 ¶
 沙門法寶撰¶
 
-6分別賢聖品
+* 6分別賢聖品
+** 1
 :PROPERTIES:
 :head: 分別賢聖品第六之一
 :END:
