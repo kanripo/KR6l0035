@@ -1,26 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:52:28.725242
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:29
 #+TITLE: 俱舍論疏
 #+PROPERTY: CBETA_ID T41n1822
 #+PROPERTY: ID KR6l0035
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 41, No. 1822
 #+PROPERTY: VOL 41
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
-#+PROPERTY: LASTPB <pb:KR6l0035_T_022-0723b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+#+PROPERTY: WITNESS master
+#+PROPERTY: LASTPB <pb:KR6l0035_T_022-0723b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 22
 ¶
 ¶
-
- 俱舍論疏卷第二十二¶
+俱舍論疏卷第二十二¶
 ¶
 沙門法寶撰¶
 
-6分別賢聖品
-:PROPERTIES:
-:head: 分別賢聖品第六之一
-:END:
-¶
+* 分別賢聖品第六之一¶
 
 云賢聖者。說文云。有多才行。謂之為賢。¶
 桂苑珠叢云。無事不通。謂之為聖。依仁王¶
@@ -1124,7 +1119,7 @@
 論。有說根本至息無有故。救異¶
 說也。
 
-論。此定緣風至除北俱盧洲第四．¶
+論。此定緣風至除北俱慮洲第四．¶
 第五明所緣境及依身也。婆沙云。言所依¶
 者。唯在欲界非色．無色。有餘師說。依欲．¶
 色界非無色界。然初起時必依欲界。¶
@@ -1294,8 +1289,7 @@
 動身。不發身識。齊此應說持息念成。¶
 俱舍論疏卷第二十二¶
 
-覺樹霜月十四夜半點了¶
-
+覺樹霜月十四夜半點了
 理真¶
 
 以黃薗古本一交了¶

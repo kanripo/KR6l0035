@@ -1,25 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:52:28.452112
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:29
 #+TITLE: 俱舍論疏
 #+PROPERTY: CBETA_ID T41n1822
 #+PROPERTY: ID KR6l0035
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 41, No. 1822
 #+PROPERTY: VOL 41
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
-#+PROPERTY: LASTPB <pb:KR6l0035_T_016-0662a> ¶¶¶¶
+#+PROPERTY: WITNESS master
+#+PROPERTY: LASTPB <pb:KR6l0035_T_016-0662a> ¶
 #+PROPERTY: JUAN 16
 ¶
 ¶
-
- 俱舍論疏卷第十六¶
+俱舍論疏卷第十六¶
 ¶
 沙門法寶撰¶
 
-:PROPERTIES:
-:head: 分別業品第四之四
-:END:
-¶
+* 分別業品第四之四¶
 
 論。又經中說至其相云何。自此已下有四頌¶
 半。第八明經中黑黑等四業　文中有三。¶
@@ -1033,7 +1029,7 @@
 道。不簡貪財及貪餘事。正理論云。此世間¶
 貪雖皆名貪非皆業道。由前已說諸惡行¶
 中攝取麁品。為業道故。唯於他物起惡¶
-欲貪名貪業道。若異此者貪著己物業道
+欲貪名貪業道。若異此者貪著已物業道
 <pb:KR6l0035_T_016-0670a>¶
 應成。輪王．北洲為難亦爾　准正理文。第¶
 一．第三二說為正。
@@ -1089,11 +1085,8 @@
 俱舍論疏卷第十六¶
 
 保延三年八月二十二日午後於東廊¶
-禪公舊居點了¶
-
-目暗貧僧覺樹¶
-
-以黃薗本一交了　義證¶
-
+禪公舊居點了
+目暗貧僧覺樹
+以黃薗本一交了　義證
 交了¶
 
